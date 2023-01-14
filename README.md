@@ -54,7 +54,7 @@ os.system('cls')
 ```
 <hr><br>
 
-[**Create a multi-password system**](https://github.com/TismaDll/password-system/blob/main/array-password.py)
+[**Create a multi-password system with a Array**](https://github.com/TismaDll/password-system/blob/main/array-password.py)
 
 ```py
 import os
