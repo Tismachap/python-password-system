@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/KbHzPrC.png" width="300px" height"300px" href="https://github.com/TismaDll/password-system">
 </div>
 
-<p>Different ways to create password systems with Python</p>
+<p><b>Documentation</b> on how to create a <b>password system</b> using <b>Python</b> in several possible ways and Bonus script</p>
 <hr><br>
 
 [**The Easiest Way to Create a Python Password System**](https://github.com/TismaDll/password-system/blob/main/simple-password.py)
