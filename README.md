@@ -110,3 +110,17 @@ while verification != password:
 
 #Clear the console once the password is correct
 os.system('cls')
+```
+<hr><br>
+
+<h1>Import a Password from Another File</h1>
+<p>1- Create a file with a variable and a password</p>
+<img src="https://i.imgur.com/576BLUM.png">
+<br>
+
+<p>2- Import the file into your main script</p>
+<img src="https://i.imgur.com/ea6uzCs.png">
+<br>
+
+<p>3- Call the variable</p>
+<img src="https://i.imgur.com/tHRKbl0.png">
