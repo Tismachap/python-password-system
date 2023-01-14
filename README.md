@@ -18,6 +18,7 @@ password = "password"
 print("Put the password here :")
 verification = input("")
 
+#If the password is incorrect, ask again
 while verification != password:
     print("Put the password here :")
     verification = input("")
@@ -26,3 +27,30 @@ while verification != password:
 #Clear the console once the password is correct
 os.system('cls')
 ```
+<hr><br>
+
+[**The Easiest Way to Create a Python Password System with Color**](https://github.com/TismaDll/password-system/blob/main/simple-password-color.py)
+
+```py
+import os
+from colorama import *
+init(autoreset=True)
+
+#Save the password in a variable
+password = "password
+
+#Ask for password
+print(Fore.BLACK+Back.WHITE+"Put the password here :")
+verification = input("")
+
+#If the password is incorrect, ask again
+while verification != password:
+    print(Fore.BLACK+Back.WHITE+"Put the password here :")
+    verification = input("")
+
+
+#Clear the console once the password is correct
+os.system('cls')
+```
+<hr><br>
+
