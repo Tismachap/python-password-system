@@ -4,4 +4,25 @@
 </div>
 
 <p>Different ways to create password systems with Python</p>
-<p>Nothing more, nothing less</p>
+<hr><br>
+
+[**The Easiest Way to Create a Python Password System**](https://github.com/TismaDll/password-system/blob/main/simple-password.py)
+
+```py
+import os
+
+#Save the password in a variable
+password = "password"
+
+#Ask for password
+print("Put the password here :")
+verification = input("")
+
+while verification != password:
+    print("Put the password here :")
+    verification = input("")
+
+
+#Clear the console once the password is correct
+os.system('cls')
+```
