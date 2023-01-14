@@ -3,5 +3,5 @@
   <img src="https://i.imgur.com/KbHzPrC.png" width="300px" height"300px">
 </div>
 
-<p>The default Python script to create a system password.</p>
+<p>Different ways to create password systems with Python</p>
 <p>Nothing more, nothing less</p>
